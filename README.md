@@ -1,1 +1,1 @@
-# lab1_todo_odoo
+# todo_odoo
